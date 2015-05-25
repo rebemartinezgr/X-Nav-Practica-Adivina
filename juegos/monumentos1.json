@@ -1,0 +1,140 @@
+{ "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [ 37.175766300, -3.587692000]},
+      "properties": {"name": "La Alhambra", "place": "Granada"}
+      },
+     { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [41.404024, 2.173938]},
+      "properties": {"name": "Basílica de la Sagrada Familia", "place": "Barcelona"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [48.859118, 2.293591]},
+      "properties": {"name": "Torre Eiffel", "place": "Paris"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [41.889739, 12.493819]},
+      "properties": {"name": "Coliseo de Roma", "place": "Roma"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [40.476684, -3.686771]},
+      "properties": {"name": "Cuatro Torres Business Area", "place": "Madrid"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [37.971300, 23.728873]},
+      "properties": {"name": "Partenón", "place": "Grecia"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [43.722905, 10.396361]},
+      "properties": {"name": "Torre de Pisa", "place": "Pisa"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [51.500889, -0.124775]},
+      "properties": {"name": "Big Ben", "place": "Londres"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [41.900804, 12.483334]},
+      "properties": {"name": "Fontana de Trevi", "place": "Roma"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [48.873460, 2.295822]},
+      "properties": {"name": "Arco del Triunfo", "place": "Paris"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [51.507619, -0.087807]},
+      "properties": {"name": "Puente de Londres", "place": "Londres"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [41.902253, 12.458441]},
+      "properties": {"name": "Plaza de San Pedro", "place": "Roma"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [51.503271, -0.119382]},
+      "properties": {"name": "London Eye", "place": "Londres"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [48.860477, 2.337590]},
+      "properties": {"name": "Museo Louvre", "place": "Paris"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [48.804752, 2.120334]},
+      "properties": {"name": "Palacio de Versalles", "place": "Versalles"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [50.894853, 4.341568]},
+      "properties": {"name": "El Atomium", "place": "Bruselas"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [37.971228, 23.725159]},
+      "properties": {"name": "Acrópolis de Atenas", "place": "Atenas"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [37.878347, -4.778840]},
+      "properties": {"name": "Mezquita de Córdoba", "place": "Cordoba"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [48.853060, 2.349698]},
+      "properties": {"name": "Catedral de Notre-Dame", "place": "Paris"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [47.557487, 10.749897]},
+      "properties": {"name": "Castillo de Neuschwanstein", "place": "Neuschwanstein"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [51.178828, -1.826221]},
+      "properties": {"name": "Stonehenge", "place": "Salisbury"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [45.434489, 12.339717]},
+      "properties": {"name": "Basílica de San Marco", "place": "Venecia"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [55.948588, -3.199947]},
+      "properties": {"name": "Castillo de Edinburgo", "place": "Edinburgo"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [41.902253, 12.458441]},
+      "properties": {"name": "Puerta de Alcalá", "place": "Madrid"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [40.419532, -3.692718]},
+      "properties": {"name": "Plaza de Cibeles", "place": "Madrid"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [40.417865, -3.714285]},
+      "properties": {"name": "Palacio Real de Madrid", "place": "Madrid"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [41.902253, 12.458441]},
+      "properties": {"name": "Plaza de San Pedro", "place": "Roma"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [55.752499, 37.623039]},
+      "properties": {"name": "Catedral de San Basilio", "place": "Moscow"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [38.691617, -9.216138]},
+      "properties": {"name": "Torre de Belem", "place": "Lisboa"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [46.948003, 7.447662]},
+      "properties": {"name": "Zytgloggeturm", "place": "Berna"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [41.016728, 28.963060]},
+      "properties": {"name": "Mezquita Suleiman", "place": "Estambul"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [47.507128, 19.045530]},
+      "properties": {"name": "Parlamento de Budapest", "place": "Budapest"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [50.087430, 14.423002]},
+      "properties": {"name": "Iglesia de Tyn", "place": "Praga"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [48.184806, 16.311969]},
+      "properties": {"name": "Palacio de Schonbrunn", "place": "Austria"}
+      }
+     ]
+   }

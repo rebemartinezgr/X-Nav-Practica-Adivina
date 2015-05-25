@@ -1,0 +1,145 @@
+
+html, body {
+	height: 100%;
+	background-color: rgb(35,46,208);   
+}
+#map{
+	margin-top: 40px;
+	width: 680px;
+	height: 500px;
+	margin-left: 60px;
+	border: Blue 10px groove; 
+    	border-radius: 20px; 	
+}
+
+.container, #game{
+	margin-top: 20px;
+    	background-color: white;
+    	height: auto;
+}
+
+.rojo{
+	color: red;
+}
+.azul{
+	color: blue
+}
+
+.verde{
+	color: green;
+}
+
+#gamename h2{
+	color: green;
+}
+
+#gamename h1{
+	color: blue;
+}
+#starting{
+	padding-top: 40px;
+	padding-bottom: 40px;
+}
+#juegosanteriores{
+
+	color: blue;
+	font-size: 1.5em;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	/*margin-left: 70px;*/
+}
+
+#welcome{
+ 	padding-top: 40px;
+	padding-bottom: 40px;
+}
+
+#icono{
+ 	width: auto;
+	height: auto;
+}
+
+#listajuegos{
+	padding-left: 200px;
+}
+
+#nivel, #start{
+	margin-top: 20px;
+	width: 250px;
+	height: 80px;
+	border-radius: 10px; 
+}
+
+#start{
+	font-size: 2.5em;
+}
+
+#stop, #new{
+	margin-top: 10px;
+	width: 200px;
+	height: 45px;
+}
+#siguiente{
+	margin-top: 5px;
+	margin-left: 520px;
+}
+#botones{
+	margin-top: 30px;
+	margin-left: 20px;
+}
+
+#puntuacion{
+  	margin-top: 10px;
+  	width: 200px;
+  	height: 85px;
+}
+
+.badge{
+ 	width: 40px;
+	height: 40px;
+}
+.badge p{
+	font-size: 2em;
+}
+#foto{
+ 	margin-top: 40px;
+ 	width: 600px;
+	margin-left: 20px;
+}
+
+#foto img{
+    	max-width: 100%;
+    	height: auto;
+    	border: Blue 5px groove; 
+    	border-radius: 20px; 
+}
+
+
+/*normas relativas a la barra de nivel*/
+@media ( max-width: 585px ) {
+    .input-group span.input-group-btn,.input-group input,.input-group button{
+        display: block;
+        width: 100%;
+        border-radius: 0;
+        margin: 0;
+    }
+    .input-group {
+        position: relative;   
+    }
+    .input-group span.data-up{
+        position: absolute;
+        top: 0;
+    }
+    .input-group span.data-dwn{
+        position: absolute;
+        bottom: 0;
+    }
+    .form-control.text-center {
+        margin: 34px 0;
+    }
+    .input-group-btn:last-child>.btn, .input-group-btn:last-child>.btn-group{
+        margin-left:0;
+    }
+}
+
+

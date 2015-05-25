@@ -1,0 +1,96 @@
+{ "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [ 48.8666667, 2.3333333]},
+      "properties": {"name": "Paris", "place": "Francia"}
+      },
+     { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [40.4, -3.6833333]},
+      "properties": {"name": "Madrid", "place": "España"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [41.9, 12.4833333]},
+      "properties": {"name": "Roma", "place": "Italia"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [52.5166667, 13.4]},
+      "properties": {"name": "Berlín", "place": "Alemania"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-34.5875,-58.6725]},
+      "properties": {"name": "Buenos Aires", "place": "Argentina"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [35.685, 139.7513889]},
+      "properties": {"name": "Tokio", "place": "Japón"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [1.2930556, 103.8558333]},
+      "properties": {"name": "Singapore", "place": "Singapur"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [30.05, 31.25]},
+      "properties": {"name": "Cairo", "place": "Egipto"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [28.6, 77.2]},
+      "properties": {"name": "New Delhi", "place": "India"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [42.5, 1.5166667]},
+      "properties": {"name": "Andorra la Vella", "place": "Andorra"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [ -35.2833333, 149.2166667]},
+      "properties": {"name": "Canberra", "place": "Australia"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [11.55, 104.9166667]},
+      "properties": {"name": "Phnom Penh", "place": "Camboya"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [4.6, -74.0833333]},
+      "properties": {"name": "Bogotá", "place": "Colombia"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [ -33.45, -70.6666667]},
+      "properties": {"name": "Santiago", "place": "Chile"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [39.9288889, 116.3883333]},
+      "properties": {"name": "Pekin", "place": "China"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [55.6666667, 12.5833333]},
+      "properties": {"name": "Copenhagen", "place": "Dinamarca"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [24.4666667, 54.3666667]},
+      "properties": {"name": "Abu Dhabi", "place": " Emiratos Árabes Unidos"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [ 53.3330556, -6.2488889]},
+      "properties": {"name": "Dublín", "place": "Irlanda"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [ 33.3386111,  44.3938889]},
+      "properties": {"name": "Bagdad", "place": " Irak"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [ 59.9166667,  10.75]},
+      "properties": {"name": "Oslo", "place": " Noruega"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [ 10.5,  -66.9166667]},
+      "properties": {"name": "Caracas", "place": " Venezuela"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [ 38.7166667,  -9.1333333]},
+      "properties": {"name": "Lisboa", "place": " Portugal"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [ 52.35,  4.9166667]},
+      "properties": {"name": "Amsterdam", "place": " Paises Bajos"}
+      }
+     ]
+   }

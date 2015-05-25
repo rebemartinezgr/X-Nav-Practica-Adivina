@@ -1,0 +1,136 @@
+{ "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [ -13.180409, -72.547960]},
+      "properties": {"name": "Santuario Historico Machu Picchu", "place": "Perú"}
+      },
+     { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [22.337046, 31.625675]},
+      "properties": {"name": "Abu Simbel", "place": "Egipto"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [48.859118, 2.293591]},
+      "properties": {"name": "Torre Eiffel", "place": "Paris"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [41.889739, 12.493819]},
+      "properties": {"name": "Coliseo de Roma", "place": "Roma"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [29.979276, 31.135511]},
+      "properties": {"name": "Las pirámides de Guiza", "place": "Egipto"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [27.174924, 78.041565]},
+      "properties": {"name": "Taj Mahal", "place": "India"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [40.748151, -73.986007]},
+      "properties": {"name": "Empire State Building", "place": "New York"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [51.500889, -0.124775]},
+      "properties": {"name": "Big Ben", "place": "Londres"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [40.689089, -74.044563]},
+      "properties": {"name": "Estatua de la Libertad", "place": "New York"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [52.516174, 13.377522]},
+      "properties": {"name": "Brandenburg Gate", "place": "Alemania"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [39.915980, 116.396861]},
+      "properties": {"name": "Ciudad Prohibida", "place": "Beijing"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [21.397981, 39.838993]},
+      "properties": {"name": "La Meca", "place": "Arabia Saudita"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [40.431896, 116.570203]},
+      "properties": {"name": "Gran Muralla China", "place": "China"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [13.412244, 103.866970]},
+      "properties": {"name": "Angkor Wat", "place": "Camboya"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [41.005957, 28.975734]},
+      "properties": {"name": "Palacio de Bucoleón", "place": "Turquía"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [50.894853, 4.341568]},
+      "properties": {"name": "El Atomium", "place": "Bruselas"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [37.971228, 23.725159]},
+      "properties": {"name": "Acrópolis de Atenas", "place": "Atenas"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [58.486573, 31.284524]},
+      "properties": {"name": "Yuriev Monastery", "place": "Rusia"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [48.853060, 2.349698]},
+      "properties": {"name": "Catedral de Notre-Dame", "place": "Paris"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-20.269625, 30.933959]},
+      "properties": {"name": "Gran Zimbabwe", "place": "Zimbabwe"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [51.178828, -1.826221]},
+      "properties": {"name": "Stonehenge", "place": "Salisbury"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [35.316599, 139.536111]},
+      "properties": {"name": " Buda de Kamakura", "place": "Japón"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [55.948588, -3.199947]},
+      "properties": {"name": "Castillo de Edinburgo", "place": "Edinburgo"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [41.902253, 12.458441]},
+      "properties": {"name": "Puerta de Alcalá", "place": "Madrid"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [13.750132, 100.491621]},
+      "properties": {"name": "Palacio dorado de Bangkok", "place": "Tailandia"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [22.520100, 88.342098]},
+      "properties": {"name": "Templo de Oro", "place": "India"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [20.683883, -88.567449]},
+      "properties": {"name": "Chichen Itza", "place": "México"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [38.691617, -9.216138]},
+      "properties": {"name": "Torre de Belem", "place": "Lisboa"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [46.948003, 7.447662]},
+      "properties": {"name": "Zytgloggeturm", "place": "Berna"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [41.016728, 28.963060]},
+      "properties": {"name": "Mezquita Suleiman", "place": "Estambul"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [47.507128, 19.045530]},
+      "properties": {"name": "Parlamento de Budapest", "place": "Budapest"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [50.087430, 14.423002]},
+      "properties": {"name": "Iglesia de Tyn", "place": "Praga"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [48.184806, 16.311969]},
+      "properties": {"name": "Palacio de Schonbrunn", "place": "Austria"}
+      }
+     ]
+   }

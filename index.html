@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	
+    <title>Adivina dónde está</title>
+	
+    <!-- Bootstrap -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+    <!--BootSnipp -->
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <!--reglas propias css-->
+    <link rel="stylesheet" type="text/css" href="css/final.css">
+    <link rel="stylesheet" type="text/css" href="css/leaflet.css" />
+    <script type="text/javascript" src="js/leaflet.js"></script>
+</head>
+<body>
+	
+
+	<div class= "container" >
+	<div id = "gamename" class= "row"> <p class="text-center"></p></div>
+	<div id = "solucion" class= "row"></div>
+	<div class= "row" id = "welcome">
+		<div class= "col-md-3 hidden-sm hidden-xs" ><img  id= "icono" src="icono.png"></img>
+		</div>
+		<div id = "listajuegos" class= "col-md-9 col-sm-12 col-xs-12" >
+			<h1>¡Bienvenido a <strong>Adivina dónde está!</strong></h1>
+			<h3> Selecciona uno de los siguientes juegos disponibles</h3>
+  			<ul><h2 id ="juego1"><strong><a>Capitales del Mundo</a></strong></h2></ul>
+			<ul><h2 id ="juego2"><strong><a>Monumentos de Europa</a></strong></h2></ul>
+			<ul><h2 id ="juego3"><strong><a>Monumentos del Mundo</a></strong></h2></ul>
+		</div>
+	</div>
+		
+ 	<div id = "starting" class = "row">
+	<div id = "instrucciones" class= "col-md-9 col-sm-12 col-xs-12">
+		<h4><strong>INSTRUCCIONES DEL JUEGO:</strong><h4> 
+		<ul>
+		<li>Debes adivinar a que parte del mundo pertenecen las imágenes mostradas.</li>
+		<li>Cuando creas que lo sabes, pincha en el lugar del mapa al que crees que corresponden las imágenes.</li> 			<li>Tu puntuación depende del numero de fotos mostradas y de la distancia al lugar correcto.</li>
+		<li>Seleccione un nivel de dificultad y pulse el botón <strong class = "verde">INICIAR</strong> cuando estés listo.</li>
+		<li>Para resetear la partida pulsa el boton <strong class = "rojo" >DETENER</strong>.</li>
+		<li>Para elegir un nuevo juego y guardar el actual pulsa el botón <strong class = "azul">JUEGO NUEVO</strong>.</li>
+		</ul>
+	</div>
+	<div class= "col-md-3 col-sm-12 col-xs-12">
+		<div id = "nivel" class="btn btn-primary" >
+			<p > <span class = "glyphicon glyphicon-hourglass"></span>SELECCIONA UN NIVEL: </p>
+       			<div class="input-group number-spinner">
+			<span class="input-group-btn data-dwn">
+			<button class="btn btn-default btn-info" data-dir="dwn"><span class="glyphicon glyphicon-minus"></span></button>
+			</span>
+			<input type="text" class="form-control text-center" value="1" min="1" max="10">
+			<span class="input-group-btn data-up">
+			<button class="btn btn-default btn-info" data-dir="up"><span class="glyphicon glyphicon-plus"></span></button>
+			</span>
+			</div>
+			
+		</div>	
+		<a id = "start" class="btn btn-lg btn-success"><span class="glyphicon glyphicon-play-circle"></span>INICIAR</a>
+	</div>
+	</div>
+
+	<div id = "game" class= row>
+	<div class= "col-md-3 col-xs-12">
+		<div id = "botones">
+			<div id= "puntuacion" class="btn btn-success">
+				<div>PUNTUACIÓN</div>
+				<div class="badge"><p>0</p></div>
+			</div>
+			<div>
+			<a  id= "new" class="btn btn-lg btn-info"><span class="glyphicon glyphicon-refresh"></span> JUEGO NUEVO!!</a>
+			</div>
+			<div>
+			<a id= "stop" class="btn btn-lg btn-danger"><span class="glyphicon glyphicon-remove-circle"></span>DETENER</a>
+			</div>
+		
+		</div>
+		<div id= "foto"><img src=""></img></div>
+	</div>
+	<div id= "map" class= "col-md-9 col-xs-12"></div>
+	<div id = "juegosanteriores" class = col-md-12 class = col-xs-3 >
+		<div> <a id = "Capitales" onclick='redirec(event);'></div>
+		<div> <a id = "Monumentos1" onclick='redirec(event);'></div>
+		<div> <a id = "Monumentos2" onclick='redirec(event);'></div>
+	</div>	
+	</div>
+	</div>	
+	</div>	
+	
+    <!-- jQuery -->
+    <script src="js/myjQuery.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
+    <!--My script-->
+    <script src="js/final.js"></script>
+</body>
+</html>	

@@ -1,0 +1,40 @@
+{ "type": "FeatureCollection",
+  "features": [
+    { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [ 48.8666667, 2.3333333]},
+      "properties": {"name": "Paris", "place": "Francia"}
+      },
+     { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [40.4, -3.6833333]},
+      "properties": {"name": "Madrid", "place": "España"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [41.9, 12.4833333]},
+      "properties": {"name": "Roma", "place": "Italia"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [52.5166667, 13.4]},
+      "properties": {"name": "Berlín", "place": "Alemania"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [-34.5875,-58.6725]},
+      "properties": {"name": "Buenos Aires", "place": "Argentina"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [35.685, 139.7513889]},
+      "properties": {"name": "Tokio", "place": "Japón"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [1.2930556, 103.8558333]},
+      "properties": {"name": "Singapore", "place": "Singapur"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [30.05, 31.25]},
+      "properties": {"name": "Cairo", "place": "Egipto"}
+      },
+	 { "type": "Feature",
+      "geometry": {"type": "Point", "coordinates": [28.6, 77.2]},
+      "properties": {"name": "New Delhi", "place": "India"}
+      }
+     ]
+   }
