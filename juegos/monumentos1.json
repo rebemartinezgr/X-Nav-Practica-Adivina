@@ -93,7 +93,7 @@
       "properties": {"name": "Castillo de Edinburgo", "place": "Edinburgo"}
       },
 	 { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [41.902253, 12.458441]},
+      "geometry": {"type": "Point", "coordinates": [40.419752, -3.689026]},
       "properties": {"name": "Puerta de Alcalá", "place": "Madrid"}
       },
 	 { "type": "Feature",
