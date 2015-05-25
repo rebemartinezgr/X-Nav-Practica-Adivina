@@ -4,7 +4,7 @@ html, body {
 	background-color: rgb(35,46,208);   
 }
 #map{
-	margin-top: 40px;
+	margin-top: 5px;
 	width: 680px;
 	height: 500px;
 	margin-left: 60px;
@@ -83,7 +83,6 @@ html, body {
 	margin-left: 520px;
 }
 #botones{
-	margin-top: 30px;
 	margin-left: 20px;
 }
 
