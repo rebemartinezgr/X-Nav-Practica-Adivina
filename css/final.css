@@ -6,14 +6,14 @@ html, body {
 #map{
 	margin-top: 5px;
 	width: 680px;
-	height: 500px;
+	height: 460px;
 	margin-left: 60px;
 	border: Blue 10px groove; 
     	border-radius: 20px; 	
 }
 
 .container, #game{
-	margin-top: 20px;
+	margin-top: 5px;
     	background-color: white;
     	height: auto;
 }
