@@ -280,7 +280,7 @@ function savestate(){
 	date = date.split("GMT");
 	puntuacion = marcador.text()
 	mypush();
-	$("#"+juego).html(("#gamename")+".    " +date[0]+".  puntuacion : "+ puntuacion);
+	$("#"+juego).html($("#gamename")+".    " +date[0]+".  puntuacion : "+ puntuacion);
 	$("#"+juego).show();
 }
 
