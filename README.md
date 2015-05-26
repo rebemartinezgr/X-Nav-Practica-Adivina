@@ -6,7 +6,7 @@ Ejercicio de asignaturas de aplicaciones HTML5. Práctica final. Adivina dónde 
 
 Cuenta del laboratorio: marg
 
-<a href="https://youtu.be/n5PLBuNkFEY">Video demostrativo en : https://youtu.be/n5PLBuNkFEY </a> 
+Video demostrativo en : https://youtu.be/n5PLBuNkFEY 
 
 Funcionamiento:
 
